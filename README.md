@@ -2,7 +2,7 @@
 
 Fair Athlete référence des dizaines de marques de sport selon un score d'écoresponsabilité. 
 
-Découvrir [Fair Athlete](https://yuka-sport-dev.herokuapp.com/#) 🚀
+Découvrir [Fair Athlete](https://yuka-sport-dev2.herokuapp.com/) 🚀
 
 ## Installation
 
